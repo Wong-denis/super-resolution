@@ -206,10 +206,8 @@ If you have any question, please email `xintao.wang@outlook.com` or `xintaowang@
 
 ## Results
 
-oringinal image:
+oringinal image:\n
 ![board_temp](https://user-images.githubusercontent.com/57944444/227465062-fa5dee44-bb51-43c4-bbe0-413552f1c806.jpg)
-upsampling image(x4):
-![9449cee0-cc65-4428-8d6e-cc27f940445c](https://user-images.githubusercontent.com/57944444/227466199-5a882aa9-0c2d-41ae-b25c-c89dbb1095aa.jpg)
 super-resolution image(x4):
 ![board_temp_x4_0314](https://user-images.githubusercontent.com/57944444/227464998-f7eaba4b-6809-4fdd-8b35-ccc49ab20d55.jpg)
 
