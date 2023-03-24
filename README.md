@@ -206,7 +206,7 @@ If you have any question, please email `xintao.wang@outlook.com` or `xintaowang@
 
 ## Results
 
-oringinal image:\n
+oringinal image:<br>
 ![board_temp](https://user-images.githubusercontent.com/57944444/227465062-fa5dee44-bb51-43c4-bbe0-413552f1c806.jpg)
 super-resolution image(x4):
 ![board_temp_x4_0314](https://user-images.githubusercontent.com/57944444/227464998-f7eaba4b-6809-4fdd-8b35-ccc49ab20d55.jpg)
