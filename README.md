@@ -1,3 +1,5 @@
+remember to download :detection_Resnet50_Final.pth
+
 <p align="center">
   <img src="assets/gfpgan_logo.png" height=130>
 </p>
